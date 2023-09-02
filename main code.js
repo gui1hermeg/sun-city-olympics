@@ -1,7 +1,7 @@
 //Inserção da modalidade a ser analisada
 let modalidade = prompt('Insira uma das modalidades disponíveis')
 
-//Obtenção da idade para designar a classificação mediante a modalidade
+//Obtenção da idade para designar a categoria do participante mediante a modalidade
 let idade = parseFloat(prompt('Insira a idade em anos'))
 
 //Definição de casos inválidos
