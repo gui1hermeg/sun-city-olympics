@@ -1,5 +1,5 @@
 # sun city olympics
 
-Esse projeto tem como objetivo simular um sistema de categorias de uma olimpíada da cidade do sol.  
+Esse projeto tem como objetivo simular um sistema de categorias de uma olimpíada da cidade do sol, de acordo com a seguinte orientação:  
 
-A funcionalidade desse código se mostra a partir da divisão de categorias mediante 4 modalidades (Futebol, Natação, Surf e E-Sport) e variantes de idade a partir de cada uma das modalidades presentes, de modo a fazer com que o sistema informe a qual categoria cada participante pertence.
+"Você deve desenvolver um sistema que informará a categoria que cada participante pertence, levando em conta as 4 modalidades de esportes presentes: Futebol, Natação, Surf e E-Sport(Lol). O participantes precisam informar a modalidade que desejam participar e a sua idade para formentação de sua categoria."
